@@ -1,0 +1,51 @@
+ul{
+    list-style-type: none;
+   
+}
+li{
+    float: right;
+    margin: 10px;
+}
+#menu{
+      width: 100%;
+      background-color: rgba(56, 142, 255, 0.938);
+      overflow: hidden;
+}
+a{
+    color:black;
+    display: inline-block;
+
+}
+
+
+body{
+    margin: 0px
+    padding 0px;
+    font-size: 30px;
+}
+footer{
+    height: 90px;
+    background-color: rgb(56 ,142, 255, 0.938);
+    margin-top: 90px;
+    overflow: hidden;
+
+}
+.im{
+    padding-left: 550px;
+}
+p{
+    text-align: center;
+    margin-left: 0px;
+}
+h1{
+    text-align: center;
+    margin-left: 0px;
+}
+.lg{
+    height: 100px;
+}
+p{
+    text-align: center;
+    margin-left: 0px;
+}
+h2{color: rgb(0, 153, 255);}
